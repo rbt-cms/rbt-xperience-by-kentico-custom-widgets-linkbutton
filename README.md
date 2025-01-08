@@ -1,1 +1,1 @@
-# RBT Xperience by Kentico Widgets - LinkButton
+# RBT Xperience by Kentico Widgets - LinkButton (Bootstrap)
