@@ -1,1 +1,1 @@
-# rbt-xbyk-widgets-linkbutton
+# RBT Xperience by Kentico Widgets - LinkButton
