@@ -5,7 +5,7 @@ A customizable link button that serves as a call-to-action (CTA). The widget all
 
 # Installation
 
-Install the [RBT.XBYK.Custom.Widgets.LinkButton.1.0.0](https://www.nuget.org/packages/RBT.Kentico.Xperience.Custom.Widgets.LinkButton/1.0.0) NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0). 
+Install the [RBT.Kentico.Xperience.Custom.Widgets.LinkButton.1.0.0](https://www.nuget.org/packages/RBT.Kentico.Xperience.Custom.Widgets.LinkButton/1.0.0) NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0). 
 
 # Widget
 
@@ -26,6 +26,10 @@ Last updated 11-01-2025
 # License
 
 This widget is provided under MIT license.
+
+# Uninstall
+
+Uninstall this from the NuGet Package Manager and rebuild the project.
 
 # Reporting issues
 
